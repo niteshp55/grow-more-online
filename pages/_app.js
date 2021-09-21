@@ -74,6 +74,13 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
 		<Head>
+	  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments) }
+  gtag('js', new Date());
+
+  gtag('config', 'G-RH00335JRS');
+</script>
 			<title>Grow More Online</title>
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/gmo-logo.png"/>
         </Head>	
