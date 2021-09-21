@@ -82,7 +82,7 @@ function Quote() {
 									</div>
 									<div className="col-sm-12">
 										<div className="input-group">
-											<div className="g-recaptcha" data-sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
+											<div className="g-recaptcha" data-sitekey="6Lc6yH8cAAAAAPRJyk3QakNCKDhZ3rAnJ6tj099O" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
 											<input className="form-control d-none" style={{ "display": "none" }} data-recaptcha="true" required data-error="Please complete the Captcha" />
 										</div>
 									</div>
