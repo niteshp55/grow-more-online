@@ -167,7 +167,7 @@ function Quote3() {
                       <div className="input-group">
                         <div
                           className="g-recaptcha"
-                          data-sitekey="6Lfyvn8cAAAAAMBB8WMUKVMgxsLT2J72ecSzgCEJ"
+                          data-sitekey="6Lc6yH8cAAAAAPRJyk3QakNCKDhZ3rAnJ6tj099O"
                           data-callback="verifyRecaptchaCallback"
                           data-expired-callback="expiredRecaptchaCallback"
                         ></div>
@@ -181,7 +181,7 @@ function Quote3() {
                       </div>
                     </div>
 					<ReCAPTCHA
-						sitekey="6Lfyvn8cAAAAAMBB8WMUKVMgxsLT2J72ecSzgCEJ"
+						sitekey="6Lc6yH8cAAAAAPRJyk3QakNCKDhZ3rAnJ6tj099O"
 						onChange={onChange}
 					/>
                     <div className="col-sm-12 m-2">
