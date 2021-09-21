@@ -94,7 +94,7 @@ function MyApp({ Component, pageProps }) {
   gtag('config', 'G-RH00335JRS');
 </script>
 			<title>Grow More Online</title>
-			<link rel="icon" type="image/png" size="16x16" href="/images/gmo-logo.png"/>
+			<link rel="icon" type="image/png" size="16x16" href="/images/logo.png"/>
         </Head>	
       <div className="page-wraper">
         <Component {...pageProps} />
