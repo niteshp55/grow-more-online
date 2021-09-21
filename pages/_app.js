@@ -35,7 +35,7 @@ function MyApp({ Component, pageProps }) {
     // from the event with the `off` method
     return () => {
       router.events.off('routeChangeComplete', handleRouteChange)
-  }, [router.events]);
+  }, [router.events])};
 
   let scrollPosition = useScrollPosition();
   function toggle() {
