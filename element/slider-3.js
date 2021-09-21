@@ -15,7 +15,7 @@ function Slider3 () {
 								<h6 data-wow-delay="0.5s" data-wow-duration="3s" className="wow fadeInUp sub-title text-yellow">Website Building, Marketing & Branding Services for your business</h6>
 								<h1 data-wow-delay="1s" data-wow-duration="3s" className="wow fadeInUp m-b20">We provide tech solutions that help your business grow </h1>
 								<p  data-wow-delay="1.5s" data-wow-duration="3s" className="wow fadeInUp m-b30"> We  Promise , We  Deliver </p>
-								<Link href="about-us-3"><a  data-wow-delay="2s" data-wow-duration="3s" className="wow fadeInUp  btn btn-corner gradient btn-primary">Learn More</a></Link>
+								<Link href="contact-us-3"><a  data-wow-delay="2s" data-wow-duration="3s" className="wow fadeInUp  btn btn-corner gradient btn-primary">Lets Talk </a></Link>
 								
 							</div>
 						</div>
