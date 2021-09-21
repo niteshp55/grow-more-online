@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { useEffect, useState } from "react";
+import { useRouter } from "next/router";
 import Slider from "react-rangeslider";
 import "react-rangeslider/lib/index.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -11,6 +12,7 @@ import "../css/style.css";
 import "../css/skin/skin-3.css";
 import "../styles/switcher.css";
 import "../styles/globals.css";
+import "../lib/ga"
 
 function MyApp({ Component, pageProps }) {
   const [toggle1, setToggle1] = useState(false);
@@ -19,11 +21,21 @@ function MyApp({ Component, pageProps }) {
   const [header, setHeader] = useState("fixed");
   const [header_, setHeader_] = useState();
   const [sliderValu, setSliderValu] = useState(20);
+  const router = useRouter()
 
   useEffect(() => {
     setbody_(document.querySelector("body"));
     setHeader_(document.getElementsByClassName("main-bar-wraper"));
-  }, []);
+    const handleRouteChange = (url) => {
+	    ga.pageview(url)
+    }
+    router.events.on('routeChangeComplete', handleRouteChange)
+
+    // If the component is unmounted, unsubscribe
+    // from the event with the `off` method
+    return () => {
+      router.events.off('routeChangeComplete', handleRouteChange)
+  }, [router.events]);
 
   let scrollPosition = useScrollPosition();
   function toggle() {
@@ -72,7 +84,7 @@ function MyApp({ Component, pageProps }) {
     : header_ && header_[0].classList.remove("is-fixed");
 
   return (
-    <>
+    <component {..pageProps} />
 		<Head>
 	  <script>
   window.dataLayer = window.dataLayer || [];
