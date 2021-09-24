@@ -89,15 +89,6 @@ function MyApp({ Component, pageProps }) {
       <div className="page-wraper">
         <Component {...pageProps} />
       </div>
-      
-      <a
-        href="https://support.w3itexperts.com"
-        target="_blank"
-        className="bt-support-now theme-btn"
-      >
-        <i className="ti-headphone-alt" />
-        <span>Support</span>
-      </a>
       <a href="#top">
         <button
           className="scroltop icon-up"
