@@ -116,7 +116,17 @@ function Quote3() {
                         ></textarea>
                       </div>
                     </div>
-                   
+                    <div className="col-sm-12">
+                      <div className="input-group">
+                        <input
+                          name="dzOther[choose_file]"
+                          type="file"
+                          required
+                          className="form-control custom-file-input"
+                        />
+                        <label className="custom-file-label">Choose file</label>
+                      </div>
+                    </div>
                     <div className="col-sm-6">
                       <div className="input-group">
                         <input
