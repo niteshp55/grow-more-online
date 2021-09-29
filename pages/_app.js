@@ -12,7 +12,6 @@ import "../css/skin/skin-3.css";
 import "../styles/switcher.css";
 import "../styles/globals.css";
 
-
 function MyApp({ Component, pageProps }) {
   const [toggle1, setToggle1] = useState(false);
   const [body_, setbody_] = useState();
@@ -21,11 +20,10 @@ function MyApp({ Component, pageProps }) {
   const [header_, setHeader_] = useState();
   const [sliderValu, setSliderValu] = useState(20);
 
-
   useEffect(() => {
     setbody_(document.querySelector("body"));
     setHeader_(document.getElementsByClassName("main-bar-wraper"));
-  }, [])};
+  }, []);
 
   let scrollPosition = useScrollPosition();
   function toggle() {
@@ -74,17 +72,10 @@ function MyApp({ Component, pageProps }) {
     : header_ && header_[0].classList.remove("is-fixed");
 
   return (
-    <component {..pageProps} />
+    <>
 		<Head>
-	  <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments) }
-  gtag('js', new Date());
-
-  gtag('config', 'G-RH00335JRS');
-</script>
 			<title>Grow More Online</title>
-			<link rel="icon" type="image/png" size="16x16" href="/images/logo.png"/>
+			<link rel="icon" type="image/png" sizes="16x16" href="/images/gmo-logo.png"/>
         </Head>	
       <div className="page-wraper">
         <Component {...pageProps} />
