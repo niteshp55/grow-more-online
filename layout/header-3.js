@@ -42,7 +42,7 @@ function Header3() {
 								<li><Link href="/"><a>Home</a></Link></li>
                                 <li><Link href="/about-us-3"><a>About Us</a></Link></li>
                                 <li><Link href="/pricing-table-3"><a>Pricing</a></Link></li>
-                                <li><Link href="/services-3"><a>Services</a></Link></li>
+                                <li><Link href="/services-details-3"><a>Services</a></Link></li>
                                 
                             </ul>
                             <div className="dlab-social-icon">
