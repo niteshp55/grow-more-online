@@ -70,7 +70,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">SEO & Marketing</h4>
-								<p className="m-b20">>Take your website visibility to a higher position and keep you up above all your competitors</p>
+								<p className="m-b20"> Take your website visibility to a higher position and keep you up above all your competitors</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
