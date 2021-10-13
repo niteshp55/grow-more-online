@@ -27,8 +27,7 @@ function Quote3() {
                 <form
                   className="dlab-form dzForm"
                   method="POST"
-                  action="https://growmoreonline.us5.list-manage.com/subscribe/post?u=b6007cc5de16b2c24cb54a87f&amp;id=20ec6f9138" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll"
+                  action="script/contact.php"
                 >
                   <div className="dzFormMsg"></div>
                   <input
