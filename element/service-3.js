@@ -58,7 +58,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Company Branding</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -70,7 +70,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">SEO & Marketing</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">>Take your website visibility to a higher position and keep you up above all your competitors</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
@@ -82,7 +82,7 @@ function Service3() {
 							</div>
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">24X7 Support</h4>
-								<p className="m-b20">Mauris ut felis malesuada eros varius tristique a at orci. Nulla vulputate, leo sit amet rhoncus suscipit, enim ex venenatis ipsum, et porttitor.</p>
+								<p className="m-b20">24/7 support model ensures that a customer is able to get their issue resolved no matter what day or time it is.</p>
 								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
