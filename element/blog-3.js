@@ -41,7 +41,7 @@ function Blog3() {
 					<div className="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dlab-blog blog-half m-b30">
 							<div className="dlab-media">
-								<img src="images/blog/default/thum1.jpg" alt=""/>
+								<img src="images/blog/default/blog2.jpg" alt=""/>
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
@@ -68,7 +68,7 @@ function Blog3() {
 					<div className="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dlab-blog blog-half m-b30">
 							<div className="dlab-media">
-								<img src="images/blog/default/blog2.jpg" alt=""/>
+								<img src="images/blog/default/blog3.jpg" alt=""/>
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
@@ -95,7 +95,7 @@ function Blog3() {
 					<div className="col-xl-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 						<div className="dlab-blog blog-half m-b30">
 							<div className="dlab-media">
-								<img src="images/blog/default/thum1.jpg" alt=""/>
+								<img src="images/blog/default/blog4.jpg" alt=""/>
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
