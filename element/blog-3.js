@@ -48,7 +48,7 @@ function Blog3() {
 									<Link href="blog-details-3"><a> 5 Things to know before creating your website
 </a></Link>
 								</h5>
-								<p>Want to start your website but don’t know how to handle all the technical stuff. Well, leave that on Bluehost. </p>
+								<p>With all the technology we have today it has become so easy for anyone to make their own website with ease. </p>
 								<div className="dlab-meta">
 									<ul>
 										<li className="post-date"><i className="flaticon-clock m-r10"></i>19 Sept, 2021</li>
