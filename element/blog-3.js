@@ -45,7 +45,7 @@ function Blog3() {
 							</div>
 							<div className="dlab-info">
 								<h5 className="dlab-title">
-									<Link href="blog-details-3"><a>How to set up your Bluehost account in just 6 easy steps
+									<Link href="blog-details-3"><a> 5 Things to know before creating your website
 </a></Link>
 								</h5>
 								<p>Want to start your website but don’t know how to handle all the technical stuff. Well, leave that on Bluehost. </p>
