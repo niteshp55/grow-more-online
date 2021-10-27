@@ -8,6 +8,46 @@ function Header3() {
       <>
         {/* <!-- Header --> */}
         <header className="site-header header-transparent mo-left">
+	    <div className="container">
+                    <div className="top-bar">
+                        <div className="row d-flex justify-content-between align-items-center">
+                            <div className="dlab-topbar-left">
+                                <ul>
+                                    <li>
+                                        <i className="la la-envelope"></i>{" "}
+                                        info@example.com
+                                    </li>
+                                    <li>
+                                        <i className="la la-phone-volume"></i> +91
+                                        987-654-3210
+                                    </li>
+                                </ul>
+                            </div>
+                            <div className="dlab-topbar-right">
+                                <ul className="dlab-social-icon">
+                                    <li>
+                                        <a
+                                            className="fa fa-facebook"
+                                            href="https://en-gb.facebook.com/"
+                                        ></a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            className="fa fa-instagram"
+                                            href="https://www.instagram.com/"
+                                        ></a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            className="fa fa-twitter"
+                                            href="https://twitter.com/login?lang=en"
+                                        ></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             {/* <!-- Main Header --> */}
             <div className="sticky-header main-bar-wraper navbar-expand-lg">
                 <div className="main-bar clearfix ">
