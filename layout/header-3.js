@@ -28,21 +28,16 @@ function Header3() {
                                     <li>
                                         <a
                                             className="fa fa-facebook"
-                                            href="https://en-gb.facebook.com/"
+                                            href="https://www.facebook.com/growmoreonlinee/"
                                         ></a>
                                     </li>
                                     <li>
                                         <a
                                             className="fa fa-instagram"
-                                            href="https://www.instagram.com/"
+                                            href="https://www.instagram.com/growmoreonlinee/"
                                         ></a>
                                     </li>
-                                    <li>
-                                        <a
-                                            className="fa fa-twitter"
-                                            href="https://twitter.com/login?lang=en"
-                                        ></a>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
