@@ -15,11 +15,11 @@ function Header3() {
                                 <ul>
                                     <li>
                                         <i className="la la-envelope"></i>{" "}
-                                        info@example.com
+                                        growmoreonlinee@gmail.com
                                     </li>
                                     <li>
                                         <i className="la la-phone-volume"></i> +91
-                                        987-654-3210
+                                        +91 9922103897
                                     </li>
                                 </ul>
                             </div>
