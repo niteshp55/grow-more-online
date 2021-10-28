@@ -59,7 +59,6 @@ function PricingT3() {
 										<li>CDN</li>
 										<li>SEO Marketing</li>
 										<li>Business Analysis</li>
-										<li>Business Analysis</li>
 										<li>Invoices</li>
 										<li>Payment</li>
 										
