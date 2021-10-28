@@ -20,13 +20,14 @@ function PricingT3() {
 										</div>
 									</div>
 									<div className="pricingtable-price"> 
-										<h2 className="pricingtable-bx">₹1999<small className="pricingtable-type">/Month</small></h2>
+										<h2 className="pricingtable-bx">₹999<small className="pricingtable-type">/Month</small></h2>
 									</div>
 									<ul className="pricingtable-features">
-										<li>Graphic Design </li>
-										<li>Web Design</li>
-										<li>UI/UX</li>
-										<li>HTML/CSS</li>
+										<li>Hosting</li>
+										<li>Professional Logo</li>
+										<li>Responsive Web Design</li>
+										<li>Domain (1 Year)</li>
+										<li>CDN</li>
 										<li>SEO Marketing</li>
 										<li>Business Analysis</li>
 									</ul>
@@ -51,12 +52,17 @@ function PricingT3() {
 										<h2 className="pricingtable-bx">₹2999<small className="pricingtable-type">/Month</small></h2>
 									</div>
 									<ul className="pricingtable-features">
-										<li>Graphic Design </li>
-										<li>Web Design</li>
-										<li>UI/UX</li>
-										<li>HTML/CSS</li>
+										<li>Hosting</li>
+										<li>Professional Logo</li>
+										<li>Responsive Web Design</li>
+										<li>Domain (1 Year)</li>
+										<li>CDN</li>
 										<li>SEO Marketing</li>
 										<li>Business Analysis</li>
+										<li>Business Analysis</li>
+										<li>Invoices</li>
+										<li>Payment</li>
+										
 									</ul>
 									<div className="pricingtable-footer"> 
 										<a href="/pricing-table-3" className="btn btn-corner btn-outline-primary">Start Now</a> 
@@ -79,12 +85,18 @@ function PricingT3() {
 										<h2 className="pricingtable-bx">₹3999<small className="pricingtable-type">/Month</small></h2>
 									</div>
 									<ul className="pricingtable-features">
-										<li>Graphic Design </li>
-										<li>Web Design</li>
-										<li>UI/UX</li>
-										<li>HTML/CSS</li>
+										<li>Hosting</li>
+										<li>Professional Logo</li>
+										<li>Responsive Web Design</li>
+										<li>Domain (1 Year)</li>
+										<li>CDN</li>
 										<li>SEO Marketing</li>
 										<li>Business Analysis</li>
+										<li>Business Analysis</li>
+										<li>Invoices</li>
+										<li>Payment</li>
+										<li>Advanced Booking System</li>
+										<li>Manage Staff Members</li>
 									</ul>
 									<div className="pricingtable-footer"> 
 										<a href="/pricing-table-3" className="btn btn-corner btn-outline-primary">Start Now</a> 
