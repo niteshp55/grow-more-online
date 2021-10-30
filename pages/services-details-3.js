@@ -49,17 +49,12 @@ function ServicesDetails3() {
 									<h4 className="title">Get your brochures</h4>
 									<ul>
 										<li>
-											<a href="services-details-3" >
+											<a href="public/" download="proposal.pdf" >
 												<div className="text">Company Brochures</div>
 												<i className="fa fa-download"></i>
 											</a>
 										</li>
-										<li>
-											<a href="services-details-3" >
-												<div className="text">Company Info</div>
-												<i className="fa fa-download"></i>
-											</a>
-										</li>
+										
 									</ul>
 								</div>
 							</div>
