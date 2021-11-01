@@ -27,6 +27,7 @@ function Index3() {
         <Newsletter3 />
         
         <Blog3 />
+        <Clients3 />
         <GetInTouch3 />
         <Footer3 />
       </div>
