@@ -4,7 +4,7 @@ function ClientSlider3() {
     const settings = {
         dots: false,
         infinite: true,
-        slidesToShow: 6,
+        slidesToShow: 4,
         slidesToScroll: 1,
         autoplay: true,
         speed: 2000,
@@ -45,46 +45,31 @@ function ClientSlider3() {
 			<Slider {...settings}>
 				<div className="item">
 					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue1.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light1.png" alt="" />
+						<img className="logo-main" src="images/logo/wordpress.png" alt="" />
+						<img className="logo-hover" src="images/logo/wordpress-white.png" alt="" />
 					</div>
 				</div>
 				<div className="item">
 					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue2.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light2.png" alt="" />
+						<img className="logo-main" src="images/logo/webflow.png" alt="" />
+						<img className="logo-hover" src="images/logo/webflow-white.png" alt="" />
 					</div>
 				</div>
 				<div className="item">
 					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue3.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light3.png" alt="" />
+						<img className="logo-main" src="images/logo/react.png" alt="" />
+						<img className="logo-hover" src="images/logo/react-white.png" alt="" />
 					</div>
 				</div>
 				<div className="item">
 					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue6.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light6.png" alt="" />
+						<img className="logo-main" src="images/logo/wix.png" alt="" />
+						<img className="logo-hover" src="images/logo/wix-white.png" alt="" />
 					</div>
 				</div>
-				<div className="item">
-					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue4.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light4.png" alt="" />
-					</div>
-				</div>
-				<div className="item">
-					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue5.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light5.png" alt="" />
-					</div>
-				</div>
-				<div className="item">
-					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/logo-blue6.png" alt="" />
-						<img className="logo-hover" src="images/logo/logo-light6.png" alt="" />
-					</div>
-				</div>
+				
+				
+				
 				
 			</Slider>
         </>
