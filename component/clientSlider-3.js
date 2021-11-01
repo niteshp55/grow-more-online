@@ -63,8 +63,8 @@ function ClientSlider3() {
 				</div>
 				<div className="item">
 					<div className="clients-logo">
-						<img className="logo-main" src="images/logo/wix.png" alt="" />
-						<img className="logo-hover" src="images/logo/wix-white.png" alt="" />
+						<img className="logo-main" src="images/logo/wix1.png" alt="" />
+						<img className="logo-hover" src="images/logo/wix-white1.png" alt="" />
 					</div>
 				</div>
 				
