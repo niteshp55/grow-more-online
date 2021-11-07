@@ -116,17 +116,7 @@ function Quote3() {
                         ></textarea>
                       </div>
                     </div>
-                    <div className="col-sm-12">
-                      <div className="input-group">
-                        <input
-                          name="dzOther[choose_file]"
-                          type="file"
-                          required
-                          className="form-control custom-file-input"
-                        />
-                        <label className="custom-file-label">Choose file</label>
-                      </div>
-                    </div>
+                    
                     <div className="col-sm-6">
                       <div className="input-group">
                         <input
@@ -138,31 +128,8 @@ function Quote3() {
                         />
                       </div>
                     </div>
-                    <div className="col-sm-6">
-                      <div className="input-group">
-                        <select
-                          name="dzOther[priority]"
-                          className="form-control"
-                          required
-                        >
-                          <option selected>Priority</option>
-                          <option value="1">One</option>
-                          <option value="2">Two</option>
-                          <option value="3">Three</option>
-                        </select>
-                      </div>
-                    </div>
-                    <div className="col-sm-6">
-                      <div className="input-group">
-                        <input
-                          name="dzOther[country]"
-                          type="text"
-                          required
-                          className="form-control"
-                          placeholder="Country"
-                        />
-                      </div>
-                    </div>
+                 
+                   
                     <div className="col-sm-12">
                       <div className="input-group">
                         <div
