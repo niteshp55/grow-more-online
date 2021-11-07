@@ -27,7 +27,7 @@ function Quote3() {
                 <form
                   className="dlab-form dzForm"
                   method="POST"
-                  action="script/contact.php"
+                  action="https://submit-form.com/vlnHOEhH"
                 >
                   <div className="dzFormMsg"></div>
                   <input
