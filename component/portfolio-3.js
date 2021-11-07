@@ -7,82 +7,56 @@ import {SRLWrapper, useLightbox} from 'simple-react-lightbox';
 function Portfolio3() {
   const portfolio = [
     {
-      title: "Software Landing Page Design",
-      category: ["all", "web_design", "branding"],
+      title: "Doctor's Website",
+      category: ["all", "web_design" , "web_development"],
       img: (
         <Image
-          src="/images/projects/project-1/pic1.jpg"
+          src="/images/projects/doctor.png"
           layout="responsive"
           width={370}
           height={370}
         />
       ),
-      author: "Jhone Doe",
+      author: "Nitesh Padghan",
     },
     {
-      title: "Software Landing Page Design",
-      category: ["all", "web_development", "branding"],
+      title: "Blogging Website",
+      category: ["all", "web_development", "web_design"],
       img: (
         <Image
-          src="/images/projects/project-1/pic2.jpg"
+          src="/images/projects/huntopedia.png"
           layout="responsive"
           width={370}
           height={370}
         />
       ),
-      author: "Jhone Doe",
+      author: "Nitesh Padghan",
     },
     {
-      title: "Software Landing Page Design",
-      category: ["all", "web_design", "seo"],
+      title: "Salon Landing Page Design",
+      category: ["all", "web_design"],
       img: (
         <Image
-          src="/images/projects/project-1/pic3.jpg"
+          src="/images/projects/salon.png"
           layout="responsive"
           width={370}
           height={370}
         />
       ),
-      author: "Jhone Doe",
+      author: "Nitesh Padghan",
     },
     {
-      title: "Software Landing Page Design",
-      category: ["all", "web_design", "branding"],
+      title: "Fashion Landing Page Design",
+      category: ["all", "web_design"],
       img: (
         <Image
-          src="/images/projects/project-1/pic4.jpg"
+          src="/images/projects/fashion.png"
           layout="responsive"
           width={370}
           height={370}
         />
       ),
-      author: "Jhone Doe",
-    },
-    {
-      title: "Software Landing Page Design",
-      category: ["all", "web_development", "seo"],
-      img: (
-        <Image
-          src="/images/projects/project-1/pic5.jpg"
-          layout="responsive"
-          width={370}
-          height={370}
-        />
-      ),
-      author: "Jhone Doe",
-    },
-    {
-      title: "Software Landing Page Design",
-      category: ["all", "mobile_app", "branding"],
-      img: (
-        <Image
-          src="/images/projects/project-1/pic6.jpg"
-          layout="responsive"
-          width={370}
-          height={370}
-        />
-      ),
-      author: "Jhone Doe",
+      author: "Nitesh Padghan",
     },
   ];
 
@@ -125,22 +99,6 @@ function Portfolio3() {
               onClick={() => setFilter("web_development")}
             >
               Web Development
-            </a>
-          </li>
-          <li className={`btn ${filter === "branding" ? "active" : ""}`}>
-            <a
-              active={filter === "branding"}
-              onClick={() => setFilter("branding")}
-            >
-              Branding
-            </a>
-          </li>
-          <li className={`btn ${filter === "mobile_app" ? "active" : ""}`}>
-            <a
-              active={filter === "mobile_app"}
-              onClick={() => setFilter("mobile_app")}
-            >
-              Mobile App
             </a>
           </li>
           <li className={`btn ${filter === "seo" ? "active" : ""}`}>
