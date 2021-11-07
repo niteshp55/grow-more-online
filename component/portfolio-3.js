@@ -24,7 +24,7 @@ function Portfolio3() {
       category: ["all", "web_development", "web_design"],
       img: (
         <Image
-          src="/images/projects/huntopedia.png"
+          src="/images/projects/huntopedia1.png"
           layout="responsive"
           width={370}
           height={370}
@@ -37,7 +37,7 @@ function Portfolio3() {
       category: ["all", "web_design"],
       img: (
         <Image
-          src="/images/projects/salon.png"
+          src="/images/projects/Salon.png"
           layout="responsive"
           width={370}
           height={370}
@@ -99,11 +99,6 @@ function Portfolio3() {
               onClick={() => setFilter("web_development")}
             >
               Web Development
-            </a>
-          </li>
-          <li className={`btn ${filter === "seo" ? "active" : ""}`}>
-            <a active={filter === "seo"} onClick={() => setFilter("seo")}>
-              SEO
             </a>
           </li>
         </ul>
