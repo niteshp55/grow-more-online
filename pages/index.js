@@ -25,7 +25,7 @@ function Index3() {
         <AboutUs3 />
         <Features3 />
         <Newsletter3 />
-        <Portfolio3 />
+        <Projects3 />
         <Blog3 />
         <Clients3 />
         <GetInTouch3 />
