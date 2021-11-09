@@ -18,7 +18,7 @@ function ServicesDetails3() {
 					<nav aria-label="breadcrumb" className="breadcrumb-row style-1">
 						<ul className="breadcrumb">
 							<li className="breadcrumb-item"><Link href="/"><a>Home</a></Link></li>
-							<li className="breadcrumb-item active" aria-current="page">Services Details 3</li>
+							<li className="breadcrumb-item active" aria-current="page">Services</li>
 						</ul>
 					</nav>
 					{/* <!-- Breadcrumb Row End --> */}
