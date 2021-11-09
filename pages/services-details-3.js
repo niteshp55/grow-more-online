@@ -13,7 +13,7 @@ function ServicesDetails3() {
 		<div className="dlab-bnr-inr style-1 bg-primary" style={{"backgroundImage":"url(images/banner/bnr2.png), var(--gradient-sec)","backgroundSize":"cover, 200%"}}>
 			<div className="container">
 				<div className="dlab-bnr-inr-entry">
-					<h1>Services Details 3</h1>
+					<h1>Services</h1>
 					{/* <!-- Breadcrumb Row --> */}
 					<nav aria-label="breadcrumb" className="breadcrumb-row style-1">
 						<ul className="breadcrumb">
