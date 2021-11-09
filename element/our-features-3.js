@@ -7,7 +7,7 @@ function Features3() {
 		<section className="content-inner bg-white">
 			<div className="container">
 				<div className="section-head style-3 text-center">
-					<h2 className="title">Our Fetures</h2>
+					<h2 className="title">Our Features</h2>
 					<div className="dlab-separator style-2 bg-primary"></div>
 				</div>
 				<div className="row align-items-center about-wraper-2">
@@ -62,7 +62,7 @@ function Features3() {
 										<a href="javascript:void(0);" className="icon-cell text-white"><i className="flaticon-rocket"></i></a> 
 									</div>
 									<div className="icon-content">
-										<h4 className="dlab-tilte text-capitalize">Testing & Lunching</h4>
+										<h4 className="dlab-tilte text-capitalize">Testing & Launching</h4>
 										<p>This is where you go live, to the world. Design, marketing, and maintenance; we'll be at your side for the life of your site.</p>
 									</div>
 								</div>
