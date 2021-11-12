@@ -27,11 +27,11 @@ function Footer3() {
 						<div className="widget widget_services style-1">
 							<h5 className="footer-title">Our links</h5>
 							<ul>
-								<li><a href="javascript:void(0);">Home</a></li>
-								<li><a href="javascript:void(0);">About Us</a></li>
-								<li><a href="javascript:void(0);">Services</a></li>
-								<li><a href="javascript:void(0);">Team</a></li>
-								<li><a href="javascript:void(0);">Blog</a></li>
+								<li><a href="/">Home</a></li>
+								<li><a href="/about-us-3">About Us</a></li>
+								<li><a href="/service-details-3">Services</a></li>
+								
+								<li><a href="/blog-large-left-sidebar">Blogs</a></li>
 							</ul>
 						</div>
                     </div>
@@ -43,7 +43,7 @@ function Footer3() {
 								<li><a href="javascript:void(0);">Web Development</a></li>
 								<li><a href="javascript:void(0);">Web Solution</a></li>
 								<li><a href="javascript:void(0);">Digital Marketing</a></li>
-								<li><a href="javascript:void(0);">App Design </a></li>
+								<li><a href="javascript:void(0);">Branding</a></li>
 							</ul>
 						</div>
                     </div>
@@ -51,11 +51,11 @@ function Footer3() {
 						<div className="widget widget_services style-1">
 						   <h5 className="footer-title">Other links</h5>
 							<ul>
-								<li><a href="javascript:void(0);">FAQ</a></li>
-								<li><a href="javascript:void(0);">Portfolio</a></li>
+								<li><a href="/faq-3">FAQs</a></li>
+								
 								<li><a href="javascript:void(0);">Privacy Policy</a></li>
 								<li><a href="javascript:void(0);">Terms & Conditions</a></li>
-								<li><a href="javascript:void(0);">Support </a></li>
+								<li><a href="javascript:void(0);">Support</a></li>
 							</ul>
 						</div>
                     </div>
