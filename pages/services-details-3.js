@@ -35,9 +35,9 @@ function ServicesDetails3() {
 						<aside className="side-bar sticky-top">
                             <div className="widget_nav_menu m-b40">
 								<ul>
-									<li><a href="/services-3">ALL SERVICES</a> </li>
+									<li  className="active"><a href="/services-3">ALL SERVICES</a> </li>
 									<li><a href="/services-3">Strategy & Research</a></li>
-									<li className="active"><a href="/web-developement">Web Development</a>  </li>
+									<li><a href="/web-developement">Web Development</a>  </li>
 									<li><a href="/web-design">Web Design</a>  </li>
 									<li><a href="/services-3">Company Branding</a> </li>
 									<li><a href="/services-3">SEO & Marketing</a> </li>
