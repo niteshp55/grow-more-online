@@ -7,16 +7,7 @@ function Accordion_sm() {
         {
             title: "How much does it cost to create a website?",
             text:
-                "Well, our prices depends on so many factors. It would be impossible to say it in one sentence.Avoid any web developer who can answer this question without a long discussion. To get a better idea on the cost of the website you need to build-
-1. Send us your message through our contact form or give us a call.  
-
-2. Answer few questions regarding nature of your website, features, design etc.
-
-3. We’ll provide you a ballpark figure based on our initial discussions.
-
-4. If you are happy, we’ll proceed and come up with the final quote.
-
-Free advice! Avoid any developer who gives you a quote instantly. Giving a quote instantly without proper discussions is Impossible.",
+                "Well, our prices depends on so many factors. It would be impossible to say it in one sentence.Avoid any web developer who can answer this question without a long discussion. To get a better idea on the cost of the website you need to build- a)Send us your message through our contact form or give us a call.  b)Answer few questions regarding nature of your website, features, design etc. c) We’ll provide you a ballpark figure based on our initial discussions. d) If you are happy, we’ll proceed and come up with the final quote.Free advice! Avoid any developer who gives you a quote instantly. Giving a quote instantly without proper discussions is Impossible.",
             bg: "primary",
         },
         {
