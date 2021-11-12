@@ -38,7 +38,7 @@ function ServicesDetails3() {
 									<li><a href="/services-3">ALL SERVICES</a> </li>
 									<li><a href="/services-3">Strategy & Research</a></li>
 									<li className="active"><a href="/web-developement">Web Development</a>  </li>
-									<li><a href="/services-3">Web Solution</a>  </li>
+									<li><a href="/web-design">Web Design</a>  </li>
 									<li><a href="/services-3">Company Branding</a> </li>
 									<li><a href="/services-3">SEO & Marketing</a> </li>
 									<li><a href="/services-3">24X7 Support</a> </li>
