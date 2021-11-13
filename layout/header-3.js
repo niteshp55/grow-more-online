@@ -75,17 +75,17 @@ function Header3() {
                             </div>
                             <ul className="nav navbar-nav navbar">	
 								<li><Link href="/"><a>Home</a></Link></li>
+								<li><Link href="/services-details-3"><a>Services</a></Link></li>
                                 <li><Link href="/about-us-3"><a>About Us</a></Link></li>
                                 <li><Link href="/faq-3"><a>FAQ</a></Link></li>
-                                <li><Link href="/services-details-3"><a>Services</a></Link></li>
+                                
                                 
                             </ul>
                             <div className="dlab-social-icon">
                                 <ul>
-                                    <Link href="/#"><a className="fa fa-facebook"></a></Link>
-                                    <Link href="/#"><a className="fa fa-twitter"></a></Link>
-                                    <Link href="/#"><a className="fa fa-linkedin"></a></Link>
-                                    <Link href="/#"><a className="fa fa-instagram"></a></Link>
+                                    <Link href="/https://www.facebook.com/growmoreonlinee/"><a className="fa fa-facebook"></a></Link>
+                                   
+                                    <Link href="/https://www.instagram.com/growmoreonlinee/"><a className="fa fa-instagram"></a></Link>
                                 </ul>
                             </div>		
                         </div>
