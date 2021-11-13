@@ -36,8 +36,8 @@ function StrategyResearch() {
                             <div className="widget_nav_menu m-b40">
 								<ul>
 									<li><a href="/services-3">ALL SERVICES</a> </li>
-									<li><a href="/strategy-research">Strategy & Research</a></li>
-									<li className="active"><a href="/web-development">Web Development</a>  </li>
+									<li className="active"><a href="/strategy-research">Strategy & Research</a></li>
+									<li><a href="/web-development">Web Development</a>  </li>
 									<li><a href="/web-design">Web Design</a>  </li>
 									<li><a href="/company-branding">Company Branding</a> </li>
 									<li><a href="/seo-marketing">SEO & Marketing</a> </li>
