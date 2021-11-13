@@ -75,7 +75,7 @@ function Header3() {
                             </div>
                             <ul className="nav navbar-nav navbar">	
 								<li><Link href="/"><a>Home</a></Link></li>
-								 <li><Link href="/services-details-3"><a>Services</a></Link></li>
+								 <li><Link href="/services-3"><a>Services</a></Link></li>
                                 <li><Link href="/about-us-3"><a>About Us</a></Link></li>
                                 <li><Link href="/faq-3"><a>FAQ</a></Link></li>
                                
