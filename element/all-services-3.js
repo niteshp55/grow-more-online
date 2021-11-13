@@ -29,7 +29,7 @@ function AllServices3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Web Development</h4>
 								<p className="m-b20">We turn your ideas into a reality. and your website is placed on a "development server" where you get to watch the whole process, live.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="web-development"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
