@@ -23,7 +23,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Strategy & Research</h4>
 								<p className="m-b20">We define your competition and target audience. Discover what is working in your online industry, then design your website accordingly.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="strategy-research"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -35,7 +35,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Web Development</h4>
 								<p className="m-b20">We turn your ideas into a reality. and your website is placed on a "development server" where you get to watch the whole process, live.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="web-development"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -47,7 +47,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Marketing</h4>
 								<p className="m-b20">We use strategic marketing tactics that have been proven to work.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="marketing"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -59,7 +59,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Company Branding</h4>
 								<p className="m-b20">Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="company-branding"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -71,7 +71,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">SEO & Marketing</h4>
 								<p className="m-b20"> Take your website visibility to a higher position and keep you up above all your competitors</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="seo-marketing"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -83,7 +83,7 @@ function Service3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">24X7 Support</h4>
 								<p className="m-b20">24/7 support model ensures that a customer is able to get their issue resolved no matter what day or time it is.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="support"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
