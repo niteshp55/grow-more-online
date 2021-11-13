@@ -17,8 +17,8 @@ function AboutUs3() {
                 <div className="dlab-separator style-2 bg-primary"></div>
               </div>
               <p>
-                At the start of the every project, we customise a detailed project plan together with you to set expectations, ensure alignment, and define key milesstones and deliverables.
-                Experience tells us thee best solutions are the ones co-ideated with clients. We incorporate your ideas with out broad level of experties to create memorable experience for your company & customers.
+                At the start of the every project, we customise a detailed project plan together with you to set expectations, ensure alignment, and define key milestones and deliverables.
+                Experience tells us the best solutions are the ones co-ideated with clients. We incorporate your ideas with out broad level of experties to create memorable experience for your company & customers.
               </p>
               
               <Counter3 />
