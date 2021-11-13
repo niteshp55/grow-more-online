@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
 <script async src="https://www.googletagmanager.com/gtag/js?id=GTM-NCJCRJD"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
+  function gtag(){window.dataLayer.push(arguments)}
   gtag('js', new Date());
 
   gtag('config', 'GTM-NCJCRJD');
