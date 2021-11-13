@@ -211,13 +211,12 @@ function AboutUs_3() {
                     <h5 className="dlab-title">
                       <Link href="blog-details-3">
                         <a>
-                          Why do you need online presence.
+                          How to set up your Bluehost account in just 6 easy steps
                         </a>
                       </Link>
                     </h5>
                     <p>
-                      Sed quis sagittis velit. Aliquam velit eros, bibendum ut
-                      massa et, consequat laoreet erat nam ac imperdiet.
+                      Want to start your website but don’t know how to handle all the technical stuff. Well, leave that on Bluehost.
                     </p>
                     <div className="dlab-meta">
                       <ul>
@@ -235,20 +234,26 @@ function AboutUs_3() {
                           <ul>
                             <li>
                               <a
-                                className="fa fa-facebook"
-                                href="javascript:void(0);"
+                                className="fa fa-twitter"
+                                href="https://twitter.com/intent/tweet?..."
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
-                                className="fa fa-twitter"
-                                href="javascript:void(0);"
+                                className="fa fa-facebook"
+                                href="https://www.facebook.com/sharer.php?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
                                 className="fa fa-linkedin"
-                                href="javascript:void(0);"
+                                href="https://www.linkedin.com/sharing/share-offsite/?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                           </ul>
@@ -296,20 +301,26 @@ function AboutUs_3() {
                           <ul>
                             <li>
                               <a
-                                className="fa fa-facebook"
-                                href="javascript:void(0);"
+                                className="fa fa-twitter"
+                                href="https://twitter.com/intent/tweet?..."
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
-                                className="fa fa-twitter"
-                                href="javascript:void(0);"
+                                className="fa fa-facebook"
+                                href="https://www.facebook.com/sharer.php?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
                                 className="fa fa-linkedin"
-                                href="javascript:void(0);"
+                                href="https://www.linkedin.com/sharing/share-offsite/?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                           </ul>
@@ -357,20 +368,26 @@ function AboutUs_3() {
                           <ul>
                             <li>
                               <a
-                                className="fa fa-facebook"
-                                href="javascript:void(0);"
+                                className="fa fa-twitter"
+                                href="https://twitter.com/intent/tweet?..."
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
-                                className="fa fa-twitter"
-                                href="javascript:void(0);"
+                                className="fa fa-facebook"
+                                href="https://www.facebook.com/sharer.php?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
                                 className="fa fa-linkedin"
-                                href="javascript:void(0);"
+                                href="https://www.linkedin.com/sharing/share-offsite/?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                           </ul>
@@ -420,20 +437,26 @@ function AboutUs_3() {
                           <ul>
                             <li>
                               <a
-                                className="fa fa-facebook"
-                                href="javascript:void(0);"
+                                className="fa fa-twitter"
+                                href="https://twitter.com/intent/tweet?..."
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
-                                className="fa fa-twitter"
-                                href="javascript:void(0);"
+                                className="fa fa-facebook"
+                                href="https://www.facebook.com/sharer.php?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                             <li>
                               <a
                                 className="fa fa-linkedin"
-                                href="javascript:void(0);"
+                                href="https://www.linkedin.com/sharing/share-offsite/?..." 
+				target="blank"
+				rel="noopener noreferrer"
                               ></a>
                             </li>
                           </ul>
