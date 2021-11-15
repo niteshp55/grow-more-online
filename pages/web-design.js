@@ -62,25 +62,40 @@ function WebDesign() {
 					</div>
 					<div className="col-xl-9 col-lg-8">
 						<div className="dlab-media m-b30 rounded-md">
-							<img src="images/blog/default/thum1.jpg" alt=""/>
+							<img src="images/design.jpg" alt=""/>
 						</div>
 						<div className="dlab-content">
 							<div className="m-b40">
 								<h3>Web Design</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+								<p>Well-designed websites offer much more than just aesthetics. They attract visitors and help people understand the product, company, and branding through a variety of indicators, encompassing visuals, text, and interactions. That means every element of your site needs to work towards a defined goal.
+
+But how do you achieve that harmonious synthesis of elements? Through a holistic web design process that takes both form and function into account.</p>
 							</div>
 							<div className="row">
 								<div className="col-lg-12">
-									<h3>How You Start Web Design ?</h3>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
+									<h3>How We Start Web Development ?</h3>
+									<p>steps to design a website requires 7 steps:.</p>
 									<ul className="list-check style-1 primary">
-										<li>Lorem Ipsum is simply dummy text of the printing.</li>
-										<li>Lorem Ipsum has been the industry's standard dummy text ever.</li>
-										<li>when an unknown printer took a galley of type and scrambled.</li>
-										<li>It has survived not only five centuries, but also the leap.</li>
-										<li>Recently with desktop publishing software like Aldus PageMaker.</li>
-										<li>Lorem Ipsum is simply dummy text of the printing industry.</li>
+										<li>Goal identification</li>
+										<li>Scope definition</li>
+										<li>Sitemap and wireframe creation:</li>
+										<li>Content creation</li>
+										<li>Visual elements</li>
+										<li>Testing and Launch</li>
 									</ul>
+									<h3>1)Goal identification</h3>
+									<p>Where we work with the you(client) to determine what goals the new website needs to fulfill. I.e., what its purpose is.</p>
+									<h3>2) Scope definition</h3>
+									<p> Once we know the site's goals, we can define the scope of the project. I.e., what web pages and features the site requires to fulfill the goal, and the timeline for building those out.</p>
+									<h3>3) Sitemap and wireframe creation</h3>
+									<p>With the scope well-defined, we can start digging into the sitemap, defining how the content and features we defined in scope definition will interrelate.</p>
+									<h3>4) Content creation</h3>
+									<p>Now that we have a bigger picture of the site in mind, we can start creating content for the individual pages, always keeping search engine optimization (SEO) in mind to help keep pages focused on a single topic. It's vital that you have real content to work with for our next stage:</p>
+									<h3>5) Visual elements</h3>
+									<p>With the site architecture and some content in place, we can start working on the visual brand. Depending on the client, this may already be well-defined, but you might also be defining the visual style from the ground up. Tools like style tiles, moodboards, and element collages can help with this process.</p>
+									<h3>6) Testing, Review and Launch</h3>
+									<p>Once everything's working beautifully, it's time to plan and execute your site launch! This should include planning both launch timing and communication strategies — i.e., when will you launch and how will you let the world know? After that, it's time to break out the bubbly.</p>
+									
 								</div>
 							</div>
 						</div>
