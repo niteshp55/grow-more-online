@@ -17,7 +17,7 @@ function AllServices3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Strategy & Research</h4>
 								<p className="m-b20">We define your competition and target audience. Discover what is working in your online industry, then design your website accordingly.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="strategy-research"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -39,9 +39,9 @@ function AllServices3() {
 								<span className="icon-cell"><i className="flaticon-laptop"></i></span> 
 							</div>
 							<div className="icon-content">
-								<h4 className="dlab-title m-b15">Content Management System</h4>
+								<h4 className="dlab-title m-b15">Web Design</h4>
 								<p className="m-b20">A Content Management System, or CMS, is a piece of software designed to help users create and edit a website.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="web-design"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -53,7 +53,7 @@ function AllServices3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">Company Branding</h4>
 								<p className="m-b20">Branding aims to establish a significant and differentiated presence in the market that attracts and retains loyal customers.</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="company-branding"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -65,7 +65,7 @@ function AllServices3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">SEO & Marketing</h4>
 								<p className="m-b20">take your website visibility to a higher position and keep you up above all your competitors</p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="seo-marketing"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
@@ -77,7 +77,7 @@ function AllServices3() {
 							<div className="icon-content">
 								<h4 className="dlab-title m-b15">24X7 Support</h4>
 								<p className="m-b20">24/7 support model ensures that a customer is able to get their issue resolved no matter what day or time it is. </p>
-								<Link href="services-3"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
+								<Link href="support"><a className="btn btn-outline-primary"><i className="fa fa-angle-right"></i></a></Link>
 							</div>
 						</div>
 					</div>
