@@ -76,7 +76,7 @@ Backend Development: Backend is the server-side of a website. It is the part of 
 							</div>
 							<div className="row">
 								<div className="col-lg-12">
-									<h3>How You Start Web Development ?</h3>
+									<h3>How We Start Web Development ?</h3>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
 									<ul className="list-check style-1 primary">
 										<li>Information Gathering</li>
@@ -88,17 +88,21 @@ Backend Development: Backend is the server-side of a website. It is the part of 
 									</ul>
 									<h3>1) Information Gathering</h3>
 									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-									<h3>1) Information Gathering</h3>
-									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-									<h3>1) Information Gathering</h3>
-									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-									<h3>1) Information Gathering</h3>
-									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-									<h3>1) Information Gathering</h3>
-									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-									<h3>1) Information Gathering</h3>
-									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
-
+									<h3>2) Planning</h3>
+									<p>Sitemap and Wireframe Creation
+At this stage of the website development cycle, then we create the data that allows you to judge how the entire site will look like.</p>
+									<h3>3) Design: Page Layouts, Review, and Approval Cycle</h3>
+									<p>During the design phase, your website takes shape. All the visual content, such as images, photos, and videos are created at this step. Once again, all the info that was gathered through the first phase is crucial.</p>
+									<h3>4) Content Writing and Assembly</h3>
+									<p>Content writing and compiling usually overlaps with other stages of website creation, and its role can’t be underestimated. At this step, it is necessary to put in writing the very essence you’d like to communicate to the audience of your website and add calls to action. Content writing also involves the creation of catching headlines, text editing, writing new text, compiling the existing text, etc., which takes time and effort. As a rule, you(client) undertake to provide website content ready to migrate to the site. It is better when all website content is provided before or during website coding.</p>
+									<h3>5) Coding</h3>
+									<p>At this step, we can finally start creating the website itself. Graphic elements that have been designed during the previous stages should be used to create an actual website. Usually, the home page is created first, and then all sub-pages are added, according to the website hierarchy that was previously created in the form of a sitemap. Frameworks and CMS should be implemented to make sure that the server can handle the installation and set-up smoothly.
+All static web page elements that were designed during the mock-up and layout creation will be created and tested. Then, special features and interactivity will be added.</p>
+									<h3>6) Testing, Review and Launch</h3>
+									<p>Testing is probably the most routine part of a process. Every single link will be tested to make sure that there are no broken ones among them. We will check every form, every script, run spell-checking software to find possible typos. Use code validators to check if your code follows the current web standards.
+After we check and re-check your website, it’s time to upload it to a server. An FTP (File Transfer Protocol) software is used for that purpose. After we deploy the files, we will run yet another, final test to be sure that all files have been installed correctly. </p>
+									<h3>7) Maintenance.</h3>
+									<p>What’s important to remember is that a website is more of a service than a product. It’s not enough to “deliver” a website to a user. We will also make sure that everything works fine, and everybody is satisfied and always be prepared to make changes in another case.</p>
 								</div>
 							</div>
 						</div>
