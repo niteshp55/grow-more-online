@@ -62,7 +62,7 @@ function WebDevelopement() {
 					</div>
 					<div className="col-xl-9 col-lg-8">
 						<div className="dlab-media m-b30 rounded-md">
-							<img src="public/development.jpg" alt=""/>
+							<img src="images/development.jpg" alt=""/>
 						</div>
 						<div className="dlab-content">
 							<div className="m-b40">
