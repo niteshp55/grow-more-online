@@ -75,7 +75,6 @@ function StrategyResearch() {
 									<p>This is why a well thought-out marketing strategy is crucial to the success of any website design project. Regardless of brand or industry, you need to have a strategy in place so that you are able to identify your business’ objectives and determine what tactics you will need in order to accomplish them. The process of building out an efficient marketing strategy can be complex and should be examined in three phases prior to a website’s launch:</p>
 									<ul className="list-check style-1 primary">
 										<p>How we plan and execute best strategy for your business.</p>
-									<ul className="list-check style-1 primary">
 										<li>The Discovery Phase</li>
 										<p>Developing any strategy starts with extensive research in order to really get a complete understanding of the industry and business itself. A deep analysis of the competitive landscape is imperative to the success of your project, both from a strategy and design perspective. It is crucial to have a mix of both qualitative and quantitative research, such as examining current website metrics, engaging in competitive research, and having conversations with stakeholders will provide you with findings that are going to be relevant throughout the entire strategy process.
 											</p>
