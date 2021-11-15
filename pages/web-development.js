@@ -62,25 +62,43 @@ function WebDevelopement() {
 					</div>
 					<div className="col-xl-9 col-lg-8">
 						<div className="dlab-media m-b30 rounded-md">
-							<img src="images/blog/default/thum1.jpg" alt=""/>
+							<img src="images/development.jpg" alt=""/>
 						</div>
 						<div className="dlab-content">
 							<div className="m-b40">
 								<h3>Web Development</h3>
-								<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+								<p>Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.
+Web Development can be classified into two ways:
+Frontend Development
+Backend Development
+Frontend Development: The part of a website that the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.
+Backend Development: Backend is the server-side of a website. It is the part of the website that users cannot see and interact with. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.</p>
 							</div>
 							<div className="row">
 								<div className="col-lg-12">
 									<h3>How You Start Web Development ?</h3>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.</p>
 									<ul className="list-check style-1 primary">
-										<li>First Step</li>
-										<li>Lorem Ipsum has been the industry's standard dummy text ever.</li>
-										<li>when an unknown printer took a galley of type and scrambled.</li>
-										<li>It has survived not only five centuries, but also the leap.</li>
-										<li>Recently with desktop publishing software like Aldus PageMaker.</li>
-										<li>Lorem Ipsum is simply dummy text of the printing industry.</li>
+										<li>Information Gathering</li>
+										<li>Planning</li>
+										<li>Design: Page Layouts, Review, and Approval Cycle</li>
+										<li>Content Writing and Assembly</li>
+										<li>Coding</li>
+										<li>Testing, Review and Launch</li>
 									</ul>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+									<h3>1) Information Gathering</h3>
+									<p>This is the stage of discovering and researching, this determines how the subsequent steps will look like. The most important task at this point is to get a clear understanding of your future website purposes, the main goals you wish to get, and the target audience you want to attract to your site. We will schedule a meeting and ask you some questions about your business. Such kind of a website development questionnaire helps to develop the best strategy for further project management. </p>
+
 								</div>
 							</div>
 						</div>
