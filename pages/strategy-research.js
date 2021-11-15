@@ -62,7 +62,7 @@ function StrategyResearch() {
 					</div>
 					<div className="col-xl-9 col-lg-8">
 						<div className="dlab-media m-b30 rounded-md">
-							<img src="images/blog/default/thum1.jpg" alt=""/>
+							<img src="images/strategy-research.jpg" alt=""/>
 						</div>
 						<div className="dlab-content">
 							<div className="m-b40">
