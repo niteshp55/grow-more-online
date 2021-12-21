@@ -7,10 +7,10 @@ function Header3() {
     return (
       <>
         {/* <!-- Header --> */}
-	    <!-- Messenger Chat plugin Code -->
+	
     <div id="fb-root"></div>
 
-    <!-- Your Chat plugin code -->
+  
     <div id="fb-customer-chat" class="fb-customerchat">
     </div>
 
@@ -20,7 +20,7 @@ function Header3() {
       chatbox.setAttribute("attribution", "biz_inbox");
     </script>
 
-    <!-- Your SDK code -->
+   
     <script>
       window.fbAsyncInit = function() {
         FB.init({
