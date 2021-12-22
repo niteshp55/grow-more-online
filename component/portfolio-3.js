@@ -46,6 +46,19 @@ function Portfolio3() {
       author: "Nitesh Padghan",
     },
     {
+      title: "Kindergarten Landing Page Design",
+      category: ["all", "web_design"],
+      img: (
+        <Image
+          src="/images/projects/Kindergarten.webp"
+          layout="responsive"
+          width={370}
+          height={370}
+        />
+      ),
+      author: "Nitesh Padghan",
+    },
+    {
       title: "Fashion Landing Page Design",
       category: ["all", "web_design"],
       img: (
