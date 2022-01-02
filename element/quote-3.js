@@ -27,7 +27,8 @@ function Quote3() {
                 <form
                   className="dlab-form dzForm"
                   method="POST"
-                  action="https://submit-form.com/vlnHOEhH"
+		target="_blank"
+                  action="https://formsubmit.co/niteshpadghan682@gmail.com"
                 >
                   <div className="dzFormMsg"></div>
                   <input
@@ -40,7 +41,7 @@ function Quote3() {
                     <div className="col-sm-6">
                       <div className="input-group">
                         <input
-                          name="dzName"
+                          name="Name"
                           required
                           type="text"
                           className="form-control"
@@ -51,7 +52,7 @@ function Quote3() {
                     <div className="col-sm-6">
                       <div className="input-group">
                         <input
-                          name="dzOther[last_name"
+                          name="last_name"
                           required
                           type="text"
                           className="form-control"
@@ -62,7 +63,7 @@ function Quote3() {
                     <div className="col-sm-6">
                       <div className="input-group">
                         <input
-                          name="dzEmail"
+                          name="Email"
                           required
                           type="text"
                           className="form-control"
