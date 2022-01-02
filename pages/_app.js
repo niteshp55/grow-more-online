@@ -76,7 +76,6 @@ function MyApp({ Component, pageProps }) {
 		<Head>
 			<title>Grow More Online</title>
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/gmo-logo.png"/>
-			<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5e4c7db7ca0040ed3139c4f3f/83b379738007d4de118602e11.js");</script>
         </Head>
       <div className="page-wraper">
         <Component {...pageProps} />
